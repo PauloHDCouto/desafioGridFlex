@@ -59,7 +59,7 @@ header p {
   border: 2px solid var(--platform-aliases-shape-terciria, #323238);
   background: var(--platform-aliases-shape-principal, #202024);
   margin-bottom: 1rem;
-
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   justify-content: center;
